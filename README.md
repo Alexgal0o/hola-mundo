@@ -1,4 +1,5 @@
-# hola-mundo
-Mi primer repositorio en GitHub
+# hola mundo
+
+Mi primer rama en del primer repositorio en GitHub
 
 Autor: David Alessandro García López
